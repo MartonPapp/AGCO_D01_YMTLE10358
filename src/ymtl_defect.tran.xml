@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TRAN" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TSTC>
+    <TCODE>YMTL_DEFECT</TCODE>
+    <PGMNA>YMTLE10358R_DEFECT_MAINT</PGMNA>
+    <DYPNO>1000</DYPNO>
+    <CINFO>gA==</CINFO>
+   </TSTC>
+   <TSTCC>
+    <TCODE>YMTL_DEFECT</TCODE>
+   </TSTCC>
+   <TSTCT>
+    <SPRSL>E</SPRSL>
+    <TCODE>YMTL_DEFECT</TCODE>
+    <TTEXT>Table Maintenance for YMTLT_DEFECT</TTEXT>
+   </TSTCT>
+   <I18N_TPOOL>
+    <TSTCT>
+     <SPRSL>8</SPRSL>
+     <TTEXT>Table Maintenance for YMTLT_DEFECT</TTEXT>
+    </TSTCT>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>

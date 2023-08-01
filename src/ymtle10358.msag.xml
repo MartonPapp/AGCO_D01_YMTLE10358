@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_MSAG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <T100A>
+    <ARBGB>YMTLE10358</ARBGB>
+    <MASTERLANG>E</MASTERLANG>
+   </T100A>
+   <T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>001</MSGNR>
+     <TEXT>Not valid Storage Type: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>002</MSGNR>
+     <TEXT>Not valid Storage Bin: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>003</MSGNR>
+     <TEXT>Not valid Part number: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>004</MSGNR>
+     <TEXT>YMTLT_DEFECT table was not updated!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>005</MSGNR>
+     <TEXT>No appropriate e-mail lists found!</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>006</MSGNR>
+     <TEXT>No recipients found for lgnum: &amp;1, lgtyp: &amp;2, defcat: &amp;3.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>007</MSGNR>
+     <TEXT>No recipients found for e-mail list ID: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>008</MSGNR>
+     <TEXT>No defects found for status: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>009</MSGNR>
+     <TEXT>No defects found for defcat: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>010</MSGNR>
+     <TEXT>No defects found for defect_nr: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>011</MSGNR>
+     <TEXT>Defect was created, e-mail failed: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>012</MSGNR>
+     <TEXT>Defect was created</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>013</MSGNR>
+     <TEXT>Defect was saved.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>014</MSGNR>
+     <TEXT>No e-mail addr found for user: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>015</MSGNR>
+     <TEXT>No active warehouse assigned to user: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>016</MSGNR>
+     <TEXT>All defects with status &amp;1 were already sent out by e-mail.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>017</MSGNR>
+     <TEXT>No e-mail list for LGTYP: &amp;1 DEFCAT: &amp;2.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>018</MSGNR>
+     <TEXT>No e-mail sent for Defect Nr.: &amp;1.</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>019</MSGNR>
+     <TEXT>LGNUM: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>020</MSGNR>
+     <TEXT>LGTYP: &amp;1</TEXT>
+    </T100>
+    <T100>
+     <SPRSL>E</SPRSL>
+     <ARBGB>YMTLE10358</ARBGB>
+     <MSGNR>021</MSGNR>
+     <TEXT>DEFCAT: &amp;1</TEXT>
+    </T100>
+   </T100>
+  </asx:values>
+ </asx:abap>
+</abapGit>

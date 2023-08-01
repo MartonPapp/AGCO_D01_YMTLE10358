@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_TABL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD02V>
+    <TABNAME>YMTL10358S_DEFCAT_RNG</TABNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <TABCLASS>INTTAB</TABCLASS>
+    <DDTEXT>Ranges Structure for DEFCAT</DDTEXT>
+   </DD02V>
+   <DD03P_TABLE>
+    <DD03P>
+     <FIELDNAME>SIGN</FIELDNAME>
+     <ROLLNAME>SIGN</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <VALEXI>X</VALEXI>
+     <SHLPORIGIN>F</SHLPORIGIN>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>OPTION</FIELDNAME>
+     <ROLLNAME>OPTI</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>LOW</FIELDNAME>
+     <ROLLNAME>YMTLE10358DE_DEFECTCATEGORY</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <VALEXI>X</VALEXI>
+     <SHLPORIGIN>F</SHLPORIGIN>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+    <DD03P>
+     <FIELDNAME>HIGH</FIELDNAME>
+     <ROLLNAME>YMTLE10358DE_DEFECTCATEGORY</ROLLNAME>
+     <ADMINFIELD>0</ADMINFIELD>
+     <VALEXI>X</VALEXI>
+     <SHLPORIGIN>F</SHLPORIGIN>
+     <COMPTYPE>E</COMPTYPE>
+    </DD03P>
+   </DD03P_TABLE>
+   <I18N_LANGS>
+    <LANGU>8</LANGU>
+   </I18N_LANGS>
+   <DD02_TEXTS>
+    <item>
+     <DDLANGUAGE>8</DDLANGUAGE>
+     <DDTEXT>Ranges Structure for DEFCAT</DDTEXT>
+    </item>
+   </DD02_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

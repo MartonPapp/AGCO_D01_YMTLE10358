@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_NROB" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <ATTRIBUTES>
+    <OBJECT>YMTLE10358</OBJECT>
+    <DOMLEN>NUM10</DOMLEN>
+    <PERCENTAGE>90.0</PERCENTAGE>
+    <NOIVBUFFER>00000010</NOIVBUFFER>
+   </ATTRIBUTES>
+   <TEXT>
+    <LANGU>E</LANGU>
+    <OBJECT>YMTLE10358</OBJECT>
+    <TXT>Non-material defect creation, defect_nr for YMTLT_DEFECT</TXT>
+    <TXTSHORT>Non-material defect</TXTSHORT>
+   </TEXT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_PROG" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROGDIR>
+    <NAME>YMTLE10358R_DEFECT_MAINT</NAME>
+    <SUBC>1</SUBC>
+    <RLOAD>E</RLOAD>
+    <FIXPT>X</FIXPT>
+    <UCCHECK>X</UCCHECK>
+   </PROGDIR>
+   <TPOOL>
+    <item>
+     <ID>R</ID>
+     <ENTRY>Program YMTLE10358R_DEFECT_MAINT</ENTRY>
+     <LENGTH>32</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_DFCAT</KEY>
+     <ENTRY>Defect Category</ENTRY>
+     <LENGTH>23</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_LGNUM</KEY>
+     <ENTRY>Warehouse Number</ENTRY>
+     <LENGTH>24</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_LGTYP</KEY>
+     <ENTRY>Storage Type</ENTRY>
+     <LENGTH>20</LENGTH>
+    </item>
+    <item>
+     <ID>S</ID>
+     <KEY>S_STAT</KEY>
+     <ENTRY>Defect Status</ENTRY>
+     <LENGTH>21</LENGTH>
+    </item>
+   </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>8</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Defect Maintenance</ENTRY>
+       <LENGTH>18</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>S_DFCAT</KEY>
+       <ENTRY>Defect Category</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>S_LGNUM</KEY>
+       <ENTRY>Warehouse Number</ENTRY>
+       <LENGTH>24</LENGTH>
+      </item>
+      <item>
+       <ID>S</ID>
+       <KEY>S_LGTYP</KEY>
+       <ENTRY>Storage Type</ENTRY>
+       <LENGTH>20</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
